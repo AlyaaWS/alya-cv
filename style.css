@@ -3,7 +3,7 @@ body {
   background: #f4f4f4;
   margin: 0;
   padding: 20px 0;
-  font-size: 16px;
+  font-size: 15px;
   color: #000;
 }
 
@@ -24,45 +24,45 @@ body {
 }
 
 h1 {
-  font-size: 28px;
+  font-size: 27px;
   margin-bottom: 8px;
 }
 
 .contact {
-  font-size: 15px;
+  font-size: 14px;
   margin-bottom: 12px;
 }
 
 h2 {
-  font-size: 18px;
+  font-size: 17px;
   margin-top: 14px;
   margin-bottom: 8px;
   text-transform: uppercase;
 }
 
 p {
-  font-size: 15px;
+  font-size: 14px;
   line-height: 1.55;
   margin: 4px 0;
 }
 
 ul {
-  padding-left: 18px;
+  padding-left: 16px;
   margin: 4px 0 10px 0;
 }
 
 li {
-  font-size: 15px;
+  font-size: 14px;
   margin-bottom: 4px;
 }
 
 .title {
   font-weight: bold;
-  font-size: 15px;
+  font-size: 13px;
 }
 
 .date {
-  font-size: 14px;
+  font-size: 13px;
   color: #333;
 }
 
@@ -90,7 +90,7 @@ a {
     background: none;
     padding: 0;
     /* keep print sizes slightly smaller to ensure single-page print */
-    font-size: 13px;
+    font-size: 12px;
     line-height: 1.45;
   }
 
@@ -108,11 +108,11 @@ a {
 
   /* Print: smaller sizes to guarantee one page */
   h1 {
-    font-size: 20px;
+    font-size: 19px;
     margin-bottom: 6px;
   }
   h2 {
-    font-size: 14px;
+    font-size: 13px;
     margin-top: 8px;
     margin-bottom: 5px;
   }
@@ -120,7 +120,7 @@ a {
   li,
   .contact,
   .title {
-    font-size: 13px;
+    font-size: 12px;
   }
   .item {
     margin-bottom: 8px;
